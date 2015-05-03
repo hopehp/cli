@@ -1,0 +1,20 @@
+{
+    "name": "hope/cli",
+    "description": "Hope Framework simple CLI classes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shvorak Alexey",
+            "email": "dr.emerido@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+      "psr-4": {
+        "Hope\\Cli" : "dist/"
+      }
+    }
+}
